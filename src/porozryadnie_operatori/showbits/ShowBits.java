@@ -1,4 +1,4 @@
-package porozryadnie_operatori;
+package porozryadnie_operatori.showbits;
 
 // Отображение битов, составляюзих байт
 public class ShowBits {
