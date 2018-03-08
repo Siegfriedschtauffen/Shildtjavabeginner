@@ -1,3 +1,4 @@
+package statics;
 
 // Применение статической переменной.
 class StaticDemo {
