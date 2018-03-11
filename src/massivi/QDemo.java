@@ -74,5 +74,11 @@ public class QDemo {
 
             if (ch != (char) 0) System.out.print(ch);
         }
+        for (i=0;i<5;i++){
+            ch = smallQ.get();
+
+            if (ch != (char) 0) System.out.print(ch);
+        }
+
     }
 }

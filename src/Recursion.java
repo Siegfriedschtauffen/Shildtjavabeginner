@@ -15,7 +15,8 @@ class Factorial {
         int t, result;
 
         result = 1;
-        for (t=1; t<=n; t++)result*=t;
+        for (t=1; t<=n; t++)
+            result=result*t;
         return result;
     }
 }
