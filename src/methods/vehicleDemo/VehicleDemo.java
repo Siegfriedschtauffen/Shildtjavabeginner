@@ -1,13 +1,13 @@
 package methods.vehicleDemo;
 
 /*
-    Программа, в которой используется класс methods.
+    Программа, в которой используется класс Vehicle.
 
     Присвоить ее исходному файлу имя vehicleDemo.java
  */
 class Vehicle {
     int passengers; // количество пассажиров
-    int fuelcap;   // емкость топливного бака
+    int fuelcap;    // емкость топливного бака
     int mpg;        // потребление топлива в милях на галлон
 }
 
